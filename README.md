@@ -1,4 +1,4 @@
-# AirIndia_Customer_Analysis
+# Indian Domestic Airline Customer Analysis
 
 ## Introduction
 The objective of this project is to analyze customer reviews of Indian Airlines to understand customer satisfaction, segment customers, and predict their loyalty.
